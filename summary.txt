@@ -1,0 +1,13 @@
+require - for importing modules
+node <filename.js>
+http.js contains basic server syntax
+async and synchronous
+
+
+
+
+
+
+
+
+notes from the creator of the course - https://course-api.com/
